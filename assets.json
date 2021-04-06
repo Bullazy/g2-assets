@@ -1,0 +1,33 @@
+{
+    "5426": [
+        {
+            "enabled": true,
+            "event": "events.kill",
+            "path": "https://giant.gfycat.com/ZestySilkyDassie.webm",
+            "type": "video",
+            "lastUpdate": 1617280609
+        },
+        {
+            "enabled": true,
+            "event": "events.death",
+            "path": "https://media.tenor.com/images/bc44c749a9cd0e297b278d8e80d838e0/tenor.gif",
+            "type": "gif",
+            "time": 5000,
+            "lastUpdate": 1617280609
+        },
+        {
+            "enabled": true,
+            "event": "events.matchStart",
+            "path": "https://giant.gfycat.com/FluffyAlienatedAmericanriverotter.webm",
+            "type": "video",
+            "lastUpdate": 1617280609
+        },
+        {
+            "enabled": true,
+            "event": "events.matchEnd",
+            "path": "https://giant.gfycat.com/TiredGleefulEarwig.webm",
+            "type": "video",
+            "lastUpdate": 1617280609
+        }
+    ]
+}
