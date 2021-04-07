@@ -18,7 +18,7 @@
             "enabled": true,
             "event": "events.matchStart",
             "path": "https://media.tenor.com/images/bc44c749a9cd0e297b278d8e80d838e0/tenor.gif",
-            "type": "video",
+            "type": "gif",
             "time": 5000,
             "lastUpdate": 1617280609
         },
