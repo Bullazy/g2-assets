@@ -3,21 +3,21 @@
         {
             "enabled": true,
             "event": "events.kill",
-            "path": "https://thumbs.gfycat.com/BasicThirstyAnkolewatusi-mobile.mp4",
+            "path": "https://thumbs.gfycat.com/MiserlyDifferentCollie-mobile.mp4",
             "type": "video",
             "lastUpdate": 1617280609
         },
         {
             "enabled": true,
             "event": "events.death",
-            "path": "https://thumbs.gfycat.com/BabyishVastCleanerwrasse-mobile.mp4",
+            "path": "https://thumbs.gfycat.com/PotableMistyHorse-mobile.mp4",
             "type": "video",
             "lastUpdate": 1617280609
         },
         {
             "enabled": true,
             "event": "events.matchStart",
-            "path": "https://media.tenor.com/images/bc44c749a9cd0e297b278d8e80d838e0/tenor.gif",
+            "path": "https://media.tenor.com/images/d9614401f98499cc81b524affaeca9f7/tenor.gif",
             "type": "gif",
             "time": 5000,
             "lastUpdate": 1617280609
@@ -25,7 +25,7 @@
         {
             "enabled": true,
             "event": "events.matchEnd",
-            "path": "https://thumbs.gfycat.com/BrightCornyIridescentshark-mobile.mp4",
+            "path": "https://thumbs.gfycat.com/DisfiguredBrightAlligatorsnappingturtle-mobile.mp4",
             "type": "video",
             "lastUpdate": 1617280609
         }
